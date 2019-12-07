@@ -1,0 +1,71 @@
+{
+	name: Reaper
+	description: A gigantic ship with great destructive power. can crush buildings in a second with its dual thorium cannons.
+
+ flying: true
+ speed: 0.25
+ maxSpeed: 0.6
+ drag: 0.01
+ hitsize: 22
+ mass: 10
+
+ health: 11000
+
+ engineSize: 8
+ engineOffset: 40
+
+ baseRotateSpeed: 0.001
+ rotatespeed: 0.01
+
+ buildPower: 10.0
+ miningPower: 100
+ mineSpeed: 40.0
+ itemCapacity: 10000
+ drillPower: 5
+
+ weaponOffsetY: 2
+ weaponOffsetX: 33
+
+ weapon: {
+   name: reaper-gun
+   bulletWidth: 16
+   bulletHeight: 16
+   length: 2
+   width: 33
+   lifetime: 110
+   range: 250
+   reload: 10
+   recoil: 3
+   shots: 1
+   alternate: true
+   velocityRnd: 0.5
+   ejectEffect: none
+   bullet: standardThoriumBig
+   shootSound: shootBig
+ 	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
