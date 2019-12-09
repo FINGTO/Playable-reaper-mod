@@ -3,20 +3,20 @@
 	 description: Provides transformation of a battleship with high attack power, high strength and great mining power.
 	 type: MechPad
 	 mech: reaper
-	 size: 8
+	 size: 3
   hasShadow: false
 	 consumes: {
 		 power: 0.7
 	}
 	 category: upgrade
 	 requirements: [
-		  copper/250
-     lead/350
-     silicon/235
-     surge-alloy/300
-     plastanium/125
-     phase-fabric/80
-     titanium/450
-     thorium/250
+		  copper/2500
+     lead/3500
+     silicon/2350
+     surge-alloy/3000
+     plastanium/1250
+     phase-fabric/800
+     titanium/4500
+     thorium/2500
 	]
 }

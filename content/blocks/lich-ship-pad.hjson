@@ -1,0 +1,22 @@
+{
+	 name: Lich Ship Pad
+	 description: Provides the transformation to an anti-terrestrial medium ship with two powerful rocket launchers.
+	 type: MechPad
+	 mech: lich
+	 size: 3
+  hasShadow: false
+	 consumes: {
+		 power: 0.7
+	}
+	 category: upgrade
+	 requirements: [
+		  copper/1200
+     lead/4500
+     silicon/1350
+     surge-alloy/1000
+     plastanium/500
+     metaglass/800
+     titanium/8500
+     thorium/960
+	]
+}
