@@ -4,20 +4,20 @@
 
  flying: true
  speed: 0.25
- maxSpeed: 0.6
+ maxSpeed: 0.45
  drag: 0.01
- hitsize: 22
+ hitsize: 53
  mass: 10
 
  health: 11000
 
- engineSize: 8
+ engineSize: 7
  engineOffset: 40
 
- baseRotateSpeed: 0.001
- rotatespeed: 0.01
+ baseRotateSpeed: 0.0001
+ rotatespeed: 0.001
 
- buildPower: 10.0
+ buildPower: 5.0
  miningPower: 100
  mineSpeed: 40.0
  itemCapacity: 10000
@@ -32,18 +32,28 @@
    bulletHeight: 16
    length: 2
    width: 33
-   lifetime: 110
+   lifetime: 250
    range: 250
-   reload: 10
-   recoil: 3
+   reload: 11
+   recoil: 1
    shots: 1
    alternate: true
-   velocityRnd: 0.5
+   velocityRnd: 0.05
    ejectEffect: none
    bullet: standardThoriumBig
    shootSound: shootBig
  	}
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
