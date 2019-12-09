@@ -1,0 +1,113 @@
+{
+	name: Lich
+	description: A ship that shoots massive missiles at its enemies, leaving them in the dust.
+
+ flying: true
+ speed: 0.25
+ maxSpeed: 0.53
+ drag: 0.1
+ hitsize: 35
+ mass: 10
+
+ health: 6000
+
+ engineSize: 5
+ engineOffset: 20
+
+ baseRotateSpeed: 0.001
+ rotatespeed: 0.02
+
+ buildPower: 2.8
+ miningPower: 10
+ mineSpeed: 25.0
+ itemCapacity: 7500
+ drillPower: 4
+
+ weaponOffsetX: 22
+
+ weapon: {
+   name: lich-missiles
+   bulletWidth: 10
+   bulletHeight: 10
+   lifetime: 100
+   range: 300
+   width: 22
+   reload: 150
+   recoil: 1
+   spacing: 1
+   hitSound: explosion
+   inaccuracy: 12
+   shots: 18
+   shotDelay: 1
+   alternate: true
+   ejectEffect: none
+   bullet: missileRevenant
+   shootSound: artillery
+ 	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
